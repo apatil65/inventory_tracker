@@ -1,0 +1,16 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "simple resto mgmt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"express": "*",
+	"body-parser": "*",
+	"mongoose": "*"
+  },
+  "author": "Arun",
+  "license": "ISC"
+}
