@@ -58,4 +58,16 @@ API       : http://localhost:3001/food_and_bev
 
 8) DELETE BY ID                                                                                                                 
 OPERATION : DELETE                                                                                                        
-API       : http://localhost:3001/food_and_bev/delete/:id
+API       : http://localhost:3001/food_and_bev/delete/:id                                                                       
+
+SAMPLE DOMUMENT OF MONGO DB:
+---------------------------
+{                                                                                                                                 
+   _id: 59b51775e06ebf8c0cc0c0f7,                                                                                                   
+  type: 'food',                                                                                                                     
+  item: 'samosa',                                                                                                                     
+  sold_date: '2017-08-10',                                                                                                          
+  city_sold: 'Blor',                                                                                                                  
+  total_sold: 50,                                                                                                                     
+  __v: 0                                                                                                                                  
+}
