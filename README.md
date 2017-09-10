@@ -20,7 +20,7 @@ System will provide REST api to get following data.
 
 Below are the API details. PUT, POST and DELETE operations are tested using POSTMAN.
 
-1) ADD ITEMS TO INVENTORY \n
+1) ADD ITEMS TO INVENTORY                                                                                               
 OPERATION : POST
 API       : http://localhost:3001/food_and_bev/add  
 Send below in REST BODY using POSTMAN.
