@@ -60,7 +60,7 @@ API       : http://localhost:3001/food_and_bev
 OPERATION : DELETE                                                                                                        
 API       : http://localhost:3001/food_and_bev/delete/:id                                                                       
 
-SAMPLE DOMUMENT OF MONGO DB:
+SAMPLE DOCUMENT OF MONGO DB:
 ---------------------------
 {                                                                                                                                 
    _id: 59b51775e06ebf8c0cc0c0f7,                                                                                                   
